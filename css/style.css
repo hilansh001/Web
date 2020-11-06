@@ -7,6 +7,23 @@ font-size : 16px;
     height:50px;
 }
 
+h1{
+    font-size: 48px;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+a.title-page {
+    font-size: 50px;
+}
+
 a{
     color: white !important;
 }
@@ -17,13 +34,22 @@ a{
 
 .heading{
     padding-top: 15px;
-    padding-left: 30px;
+    padding-left: 45px;
+}
+
+.navigation{
+    margin-top: 10px;
+    font-size: 25px;
+    color: wheat !important;
 }
 
 .bg-success{
     background-color: #a3d8f4;
 }
 
+.board{
+    padding-left: 45px;
+}
 
 .board input.c {
             font-size: 15pt;
@@ -50,6 +76,8 @@ a{
     background-color: black;
     color: wheat;
 }
+
+
 
 #message{
 	color: red;
