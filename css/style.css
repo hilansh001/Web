@@ -43,6 +43,11 @@ a{
     color: wheat !important;
 }
 
+.navigation:hover{
+    color: white !important;
+    text-decoration: underline !important;
+}
+
 .bg-success{
     background-color: #a3d8f4;
 }
