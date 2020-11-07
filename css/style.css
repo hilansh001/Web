@@ -83,23 +83,13 @@ a{
 	color: red;
 }
 
-#c93, #c83, #c73, #c63, #c53, #c43, #c33, #c23, #c13{
+#c93, #c83, #c73, #c63, #c53, #c43, #c33, #c23, #c13,#c96, #c86, #c76, #c66, #c56, #c46, #c36, #c26, #c16{
 	border-right: 4px solid black;
 }    
 
-#c96, #c86, #c76, #c66, #c56, #c46, #c36, #c26, #c16{
-	border-right: 4px solid black;
-}    
-
-#c31,#c32,#c33,#c34,#c35,#c36,#c37,#c38,#c39 {
+#c31,#c32,#c33,#c34,#c35,#c36,#c37,#c38,#c39, #c61,#c62,#c63,#c64,#c65,#c66,#c67,#c68,#c69  {
         border-bottom: 4px solid black;
 }
-
-#c61,#c62,#c63,#c64,#c65,#c66,#c67,#c68,#c69 {
-        border-bottom: 4px solid black;
-}
-
-
 
 #sudoku-board {
     border: 2px solid black;
