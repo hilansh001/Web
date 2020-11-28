@@ -10,7 +10,7 @@
                     j.down.up = j.up;
                     j.up.down = j.down;
                     j.column.size--;
-                }
+                } 
             }
         }
 
